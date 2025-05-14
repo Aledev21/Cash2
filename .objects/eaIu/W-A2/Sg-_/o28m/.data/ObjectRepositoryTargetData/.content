@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LKbXC-LFgUCmPWU-P-Q_tA" Reference="JAeB8tjtzU-poSOmyXbTaQ/o28m9phbokehlHOOGf5Y7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/106120235" CVScreenId="77a5fa8e-3fa9-4c4d-95dd-ebd3b838a456" CvElementArea="64, 548, 277, 44" CvType="InputBox" DesignTimeRectangle="66, 550, 275, 42" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='&amp;quot;+in_Status+&amp;quot;' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='btn dropdown-toggle bs-placeholder btn-default' aaname='---' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='---' /&gt;" Guid="4cfd39ca-a27c-444f-aa0f-b1d5c19ecbf5" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='WI-Update' title='ACME System 1' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="77a5fa8e-3fa9-4c4d-95dd-ebd3b838a456" CvTextArea="65, 521, 101, 16" CvTextArgument="New Status:" CvType="Text" DesignTimeRectangle="66, 519, 100, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='New Status:' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='New Status:' /&gt;" Guid="c887ed51-1be7-445c-8398-ca12de8ceb33" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7c2126338efd203d8bd36c4775bf3701.png" xmlns="">0VbtDtNBcY0a4FcbqQpJ3og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
