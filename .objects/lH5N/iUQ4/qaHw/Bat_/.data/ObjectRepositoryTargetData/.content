@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="d7oCPp2cvkic87rlwWEI7A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="a3af6bbe-1d5f-4980-8eb3-c401138c97b3" CvTextArea="15, 295, 94, 11" CvTextArgument="Enter here..." CvType="Text" DesignTimeRectangle="8, 336, 663, 150" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='input' tag='TEXTAREA' /&gt;" Guid="1482202f-0ab8-42b3-8cdb-be118b7984df" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a3af6bbe-1d5f-4980-8eb3-c401138c97b3" CvTextArea="23, 212, 318, 14" CvTextArgument="Base64, or other encodings. It also supports HMAC." CvType="Text" DesignTimeRectangle="24, 216, 631, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H1' type='' class='' aaname='SHA1' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='SHA1' /&gt;" Guid="12aecabc-5a83-43ea-8359-131555fc8904" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8a0f5c1bc68d1f274a49e684c6c58dd8.png" xmlns="">0JMR1As1KUUG4gTz8pmVeCg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
